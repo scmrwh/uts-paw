@@ -78,5 +78,45 @@
     "daerahAsal": "Lampung",
     "waktuMasak": "45 menit",
     "tingkatKesulitan": "Mudah"
+  },
+  {
+    "id": "11",
+    "judul": "Rawon Daging Sapi",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Jawa Timur",
+    "waktuMasak": "120 menit",
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "12",
+    "judul": "Ayam Betutu",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Bali",
+    "waktuMasak": "180 menit",
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "13",
+    "judul": "Coto makassar",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Sulawesi Selatan",
+    "waktuMasak": "120 menit",
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "14",
+    "judul": "Ayam Taliwang Pedas Manis",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Nusa Tenggara Barat",
+    "waktuMasak": "60 menit",
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "15",
+    "judul": "Papeda Ikan Kuah Kuning",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Papua",
+    "waktuMasak": "45 menit",
+    "tingkatKesulitan": "Mudah"
   }
 ]
