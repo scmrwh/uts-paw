@@ -11,7 +11,6 @@ const MENU = [
 
 export default function Layout() {
   return (
-    // 1. Tambah id="kerangka-utama"
     <div id="kerangka-utama" className="kerangka">
       <header className="kepala">
         <strong>Resep Masakan Nusantara</strong>
