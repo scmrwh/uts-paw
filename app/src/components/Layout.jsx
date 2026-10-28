@@ -11,10 +11,11 @@ const MENU = [
 
 export default function Layout() {
   return (
-    <div className="kerangka">
+    // 1. Tambah id="kerangka-utama"
+    <div id="kerangka-utama" className="kerangka">
       <header className="kepala">
-        <strong>Daftar Tugas</strong>
-        <nav className="menu">
+        <strong>Resep Masakan Nusantara</strong>
+        <nav id="menu-utama" className="menu" aria-label="Navigasi utama">
           {MENU.map(({ ke, label }) => (
             <NavLink key={ke} to={ke} end={ke === '/'}>
               {label}
@@ -22,10 +23,12 @@ export default function Layout() {
           ))}
         </nav>
       </header>
-      <main className="isi">
+      <main id="isi-utama" className="isi">
         <Outlet />
       </main>
-      <footer className="kaki">Ujian Tengah Semester Pengembangan Aplikasi Web</footer>
+      <footer className="kaki" data-skema="k7.2">
+        UTS Pengembangan Aplikasi Web · Resep Masakan Nusantara
+      </footer>
     </div>
   )
 }
