@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Rendang Daging Sapi Otentik",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Sumatera Barat",
+    "waktuMasak": "300 menit",
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "2",
+    "judul": "Soto Lamongan Koya Gurih",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Lamongan, Jawa Timur",
+    "waktuMasak": "90 menit",
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "3",
+    "judul": "Martabak Mesir asli Minang",
+    "kategori": "Kudapan/Makanan Utama",
+    "daerahAsal": "Padang, Sumatera Barat",
+    "waktuMasak": "45 menit",
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "4",
+    "judul": "Pempek asli Palembang",
+    "kategori": "Kudapan",
+    "daerahAsal": "Palembang, Sumatera Selatan",
+    "waktuMasak": "60 menit",
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "5",
+    "judul": "Roti Jala khas Melayu",
+    "kategori": "Kudapan",
+    "daerahAsal": "Riau/Kepulauan Riau",
+    "waktuMasak": "45 menit",
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "6",
+    "judul": "Bika Ambon Bersarang Lembut",
+    "kategori": "Kudapan",
+    "daerahAsal": "Sumatera Utara",
+    "waktuMasak": "120 menit",
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "7",
+    "judul": "Bakpia Pathok",
+    "kategori": "Kudapan",
+    "daerahAsal": "Yogyakarta",
+    "waktuMasak": "90 menit",
+    "tingkatKesulitan": "Sulit"
+  },
+  {
+    "id": "8",
+    "judul": "Mie Aceh Spesial",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Aceh",
+    "waktuMasak": "45 menit",
+    "tingkatKesulitan": "Sedang"
+  },
+  {
+    "id": "9",
+    "judul": "Seruit Sambal Terasi Durian",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Lampung",
+    "waktuMasak": "45 menit",
+    "tingkatKesulitan": "Mudah"
+  },
+  {
+    "id": "10",
+    "judul": "Seruit Sambal Terasi Durian",
+    "kategori": "Makanan Utama",
+    "daerahAsal": "Lampung",
+    "waktuMasak": "45 menit",
+    "tingkatKesulitan": "Mudah"
   }
 ]
