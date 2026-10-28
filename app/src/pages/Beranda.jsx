@@ -3,8 +3,8 @@ import useKoleksi from '../hooks/useKoleksi.js'
 import mahasiswa from '../../mahasiswa.json'
 
 export default function Beranda() {
-    const { items, loading } = useKoleksi()
-    const jumlahKategori = new Set(items.map((item) => item.kategori)).size
+  const { items, loading } = useKoleksi()
+  const jumlahKategori = new Set(items.map((item) => item.kategori)).size
 
   return (
     <section>
