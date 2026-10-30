@@ -25,7 +25,7 @@ export default function FormItem({ form, onUbah, onSubmit, galat }) {
       <select id="tingkatKesulitan" name="tingkatKesulitan" value={form.tingkatKesulitan} onChange={onUbah}>
         <option value="mudah">Mudah</option>
         <option value="sedang">Sedang</option>
-        <option value="sulit">Sulit</option>
+        <option value="sulit">Sulit</option> 
       </select>
 
       <button type="submit">Simpan</button>
