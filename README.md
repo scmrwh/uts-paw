@@ -62,7 +62,7 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 
 Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
 
-```markdown
+markdown
 # Nama Aplikasi
 
 Nama: Suci Marwah Anissa
@@ -71,7 +71,7 @@ Kelas: RA
 Tema: Resep Masakan Nusantara
 Deployment: https://scmrwh.github.io/uts-paw/
 
-![Tangkapan layar beranda](https://github.com/scmrwh/uts-paw/blob/main/pic/beranda.png?raw=true)
+![Tampilan beranda](https://github.com/scmrwh/uts-paw/blob/main/pic/beranda.png?raw=true)
 
 ## Fitur
 1. Beranda 
