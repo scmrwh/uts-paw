@@ -71,7 +71,7 @@ Kelas: RA
 Tema: Resep Masakan Nusantara
 Deployment: https://scmrwh.github.io/uts-paw/
 
-![Tangkapan layar beranda](https://github.com/scmrwh/uts-paw/pic/beranda.png?raw=true)
+![Tangkapan layar beranda](https://github.com/scmrwh/uts-paw/blob/main/pic/beranda.png?raw=true)
 
 ## Fitur
 1. Beranda 
